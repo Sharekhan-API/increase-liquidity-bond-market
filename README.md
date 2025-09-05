@@ -13,7 +13,7 @@
 This repository contains our prototype platform designed to **improve liquidity in the bond market**.  
 We combine **fractional bond trading**, **education**, **order matching**, **pricing services**, and **AI-powered recommendations** into a unified ecosystem.  
 
-📺 **Video Demo**: [Watch Here](https://your-demo-link.com)  
+📺 **Video Demo**: **[Increase Liquidity in Bond Market with M bond - SEBI](https://youtu.be/UlzD8tMVfsU)**
 
 ---
 
